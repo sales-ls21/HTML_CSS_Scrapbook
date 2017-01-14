@@ -266,11 +266,8 @@ a:hover {
 .cvrimg{
 	width: 100%;
 }
-.cvrDiv{
-	background-color: #f1103a;
-}
+
 .cvrDiv h2{
-	color: white;
 	text-align: center;
 }
 .paraDiv{
